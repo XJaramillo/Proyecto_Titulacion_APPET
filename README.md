@@ -1,12 +1,14 @@
 # Proyecto_Titulacion_APPET :dog:
 # Ionic_Chat :computer:
-## Plataforma Web Y Aplicacoón Móvil :iphone:
+## Plataforma Web Y Aplicación Móvil :iphone:
 
 ## Integrantes : 
 * **Xavier Jaramillo** 
 * **Gabriel Ibujés** 
 
-Aplicacion Web esarrollada con Ionic Framework, la aplicacion APK ya instalada en un dispositvo permitira iniciar sesión, chatear jutamente con otros usuarios, los mensajes se iran guardando en Firebase de Google de una manera cifrada, los registros de los chats de los usuarios se iran guardando constantemente y ademas con la funcionalidad
+Aplicación Web desarrollada con Laravel Framework, 
+
+la aplicacion APK ya instalada en un dispositvo permitira, crear usuarios, iniciar sesión,  guardando en Firebase de Google de una manera cifrada, los registros se iran guardando constantemente y ademas con la funcionalidad
 
 :mailbox: :email:
 
