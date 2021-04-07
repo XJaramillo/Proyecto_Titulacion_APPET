@@ -1,0 +1,30 @@
+/*.login {*/
+/*    max-width: 340px;*/
+/*    margin: 0 auto;*/
+/*    padding: 1rem;*/
+/*    border: 1px solid #ccc;*/
+/*    border-radius: 4px;*/
+/*}*/
+h1{
+    font-family: Brush Script MT;
+    color: #F17525 !important;
+    font-size: 35px;
+    font-weight: normal;
+    position: center;
+}
+.ant-btn-primary {
+    color: #fff;
+    background: #F17525;
+    border-color: #F17527;
+    width: 150px;
+    height:40px;
+    position: center;
+}
+.Checkbox{
+    color: #fff;
+    background: #F17525;
+    border-color: #F17527;
+}
+imagen{
+    background: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1));
+}

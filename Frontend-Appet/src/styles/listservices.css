@@ -1,0 +1,32 @@
+h1{
+    font-family: Brush Script MT;
+    color: #F17525 !important;
+    font-size: 25px;
+    font-weight: normal;
+}
+h2{
+    font-family: Brush Script MT;
+    color: #ff4d4f !important;
+    font-size: 30px;
+    font-weight: normal;
+}
+h3 {
+    font-family: Brush Script MT;
+    color: #312e2e !important;
+    font-size: 25px;
+    font-weight: normal;
+}
+.title{
+    font-family: Brush Script MT;
+    color: #F17525 !important;
+    font-size: 30px;
+    font-weight: normal;
+}
+.ant-btn-primary {
+    color: #fff;
+    background: #F17525;
+    border-color: #F17527;
+    width: 150px;
+    height:40px;
+    position: center;
+}

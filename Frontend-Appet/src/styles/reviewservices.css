@@ -1,0 +1,109 @@
+/*modificaciones actules*/
+
+.first-part{
+    background: #e5e5e5;
+    color: #034C70 !important;
+    text-align: center;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    justify-content: center;
+
+}
+
+
+p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    font-family: Brush Script MT;
+    color: #F17525 !important;
+    font-size: 20px;
+    font-weight: normal;
+}
+h2{
+    font-family: Brush Script MT;
+    color: #ff4d4f !important;
+    font-size: 30px;
+    font-weight: normal;
+}
+h3 {
+    font-family: Brush Script MT;
+    color: #312e2e !important;
+    font-size: 25px;
+    font-weight: normal;
+}
+.ant-btn-primary {
+    color: #fff;
+    background: #F17525;
+    border-color: #F17527;
+    width: 150px;
+    height:40px;
+}
+
+.second-part{
+
+    text-align: center;
+    padding: 50px 20px;
+
+}
+
+.card-rows{
+    margin-left: 200px;
+    margin-right: -8px;
+}
+
+
+.ant-card {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    color: #034C70;
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+
+    font-feature-settings: 'tnum', "tnum";
+    position: relative;
+    background: rgba(196, 196, 196, 0.6);;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+    width: 191px;
+    height: 275px;
+
+}
+
+.ant-card-head {
+    font-family: Brush Script MT;
+    min-height: 48px;
+    margin-bottom: -1px;
+    padding: 0 24px;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    font-size: 25px;
+    background: transparent;
+    border-bottom: none;
+    border-radius: 2px 2px 0 0;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: cadetblue;
+    padding: 3px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
