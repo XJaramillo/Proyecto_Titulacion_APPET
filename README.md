@@ -1,6 +1,5 @@
 # Proyecto_Titulacion_APPET :dog:
-# Ionic_Chat :computer:
-## Plataforma Web Y Aplicación Móvil :iphone:
+## Plataforma Web :computer: / Aplicación Móvil :iphone:
 
 ## Integrantes : 
 * **Xavier Jaramillo** 
