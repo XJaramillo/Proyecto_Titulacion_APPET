@@ -29,6 +29,6 @@ la aplicacion APK ya instalada en un dispositvo permitira, crear usuarios, inici
 
 ## Descarga El APK
 
-Descarga `APK` clic en el siguiente enlace [Ionic Chat](https://download1508.mediafire.com/zeuxee1vufmg/qhjpkr6sw7jzp02/app-debug.apk). :white_check_mark:
+Descarga `APK` clic en el siguiente enlace [Appet](https://download1508.mediafire.com/zeuxee1vufmg/qhjpkr6sw7jzp02/app-debug.apk). :white_check_mark:
 
 ## Enlace del 
