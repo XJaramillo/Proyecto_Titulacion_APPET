@@ -30,7 +30,7 @@ const MainLayout = props => {
           <Col span={ 20 }>
             <Header className='header'>
               <Row type='flex' justify='space-between' align='bottom'>
-                <Col xs={ 24 } md={ 6 } className='logo-wrapper'>
+                <Col xs={ 24 } md={ 1 } className='logo-wrapper'>
                   <a href={ process.env.REACT_APP_DOMAIN }>
                     <img className='logo' src={ logo } alt='Grupo Menta' /></a>
                 </Col>
@@ -123,7 +123,7 @@ const MainLayout = props => {
                  } }
                  className='contact-links'>
               <p><strong>Contáctanos</strong></p>
-              <p><MailOutlined /> <a href='mailto:chalo.salvador@grupomenta.com'>appet@appet.com</a></p>
+              <p><MailOutlined /> <a href='appet.com'>appet@appet.com</a></p>
               <p><WhatsAppOutlined /> <a href='https://wa.me/593984794808' target='_blank' rel='noopener noreferrer'>+593
                 991234569</a></p>
 

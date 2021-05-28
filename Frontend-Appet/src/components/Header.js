@@ -1,6 +1,4 @@
-/**
- * Created by chalosalvador on 3/1/20
- */
+
 import React from 'react';
 import Navigation from './Navigation';
 

@@ -44,8 +44,8 @@ const Navigation = ( props ) => {
             theme='dark'
             selectedKeys={ [ menuState.current ] }
             style={ {
-              lineHeight: '64px',
-              width: 'fit-content'
+              lineHeight: '63px',
+              width: '830px'
             } }
         >
           <Menu.Item key={ Routes.HOME2 }>
@@ -68,8 +68,12 @@ const Navigation = ( props ) => {
             <Link to={ Routes.VET } style={ linkStyle }>Veterinaria</Link>
           </Menu.Item>
 
+          <Menu.Item key={ Routes.STORE }>
+            <Link to={ Routes.STORE } style={ linkStyle }>Tienda</Link>
+          </Menu.Item>
+
           <Menu.Item key={ Routes.ABOUT }>
-            <Link to={ Routes.ABOUT } style={ linkStyle }>About</Link>
+            <Link to={ Routes.ABOUT } style={ linkStyle }>¿Quienes Somos?</Link>
           </Menu.Item>
 
           {

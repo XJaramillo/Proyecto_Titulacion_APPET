@@ -3,6 +3,7 @@ const publicRoutes = {
   REGISTER: '/registro',
   SERVICES: '/hospedaje',
   HAIRSTYLE: '/peluquería',
+  STORE: '/tienda',
   USERS: '/usuarios',
   USERS_ID: `/usuario/:id`,
   HOME: '/',

@@ -25,6 +25,7 @@ const AsyncHome2 = loadable( () => import( '../pages/Inicio' ), loadableOptions 
 const AsyncLogin = loadable( () => import( '../pages/Login' ), loadableOptions );
 const AsyncRegister = loadable( () => import( '../pages/Register' ), loadableOptions );
 const AsyncHairstyle = loadable( () => import( '../pages/Hairstyle' ), loadableOptions );
+const AsyncStore = loadable( () => import( '../pages/Store' ), loadableOptions );
 const AsyncServices = loadable( () => import( '../pages/Services' ), loadableOptions );
 const AsyncService = loadable( () => import( '../pages/Service' ), loadableOptions );
 const AsyncAbout = loadable( () => import( '../pages/About' ), loadableOptions );
@@ -61,6 +62,7 @@ const AppRouter = () => (
     <PublicRoute path={ Routes.SERVICES } component={ AsyncServices } />
     <PublicRoute path={ Routes.ABOUT } component={ AsyncAbout } />
     <PublicRoute path={ Routes.HAIRSTYLE } component={ AsyncHairstyle } />
+      <PublicRoute path={ Routes.STORE } component={ AsyncStore } />
     <PublicRoute exact path={ Routes.VET } component={ AsyncVet } />
     <PublicRoute exact path={ Routes.ADV } component={ AsyncAdv } />
     <PublicRoute exact path={ Routes.ORDERDETAIL } component={ AsyncOrderDetail } />

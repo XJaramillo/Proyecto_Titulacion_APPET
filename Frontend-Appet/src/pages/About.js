@@ -41,63 +41,9 @@ const About = () => {
                     </h3>
                 </Col>
             </Row>
-            <Row justify='center' className='second-part'>
-                <h1 >Equipo de Trabajo</h1>
-            </Row>
-            <Row justify='center' className='second-part'>
-                <table className="team">
-                    <tr>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <Card title="Jessy" >
-                            <div >
-                                <img width={150} height={150} src="/images/jeka.jpeg" />
-                            </div>
-                        </Card>
-                        <td></td>
-                    <td>
-                        <Card title="Gabo" >
-                        <div >
-                            <img width={150} height={150} src="/images/gabo.jpeg" />
-                        </div>
-                    </Card>
-                    </td>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <td></td>
-                        <td>
-                        <Card title="Samy" >
-                            <div >
-                                <img width={150} height={150} src="/images/samy.jpeg" />
-                            </div>
-                        </Card>
-                    </td>
-                    </tr>
-                    <tr>
-                        <th></th>
-                    </tr>
-                    <tr>
-                        <th></th>
-                        <Card title="Ahilton" >
-                            <div >
-                                <img width={150} height={150} src="/images/ahilton.jpeg" />
-                            </div>
-                        </Card>
-                        <td>
 
-                        </td>
-                        <td>
-                            <Card title="David" >
-                                <div >
-                                    <img width={150} height={150} src="/images/davo.jpeg" />
-                                </div>
-                            </Card>
-                        </td>
-                    </tr>
-                </table>
+            <Row justify='center' className='second-part'>
+
                 <Row className='second-part'>
                     <Col span={24}>
                         <h1 >Misión</h1>
